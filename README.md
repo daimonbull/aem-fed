@@ -56,3 +56,9 @@ There are three levels of testing contained in the project:
 The project comes with the auto-public repository configured. To setup the repository in your Maven settings, refer to:
 
     http://helpx.adobe.com/experience-manager/kb/SetUpTheAdobeMavenRepository.html
+    
+## FrontEnd Wepback 
+
+* Navigate inside the ui.frontend folder.
+* Run npm install. 
+* Run the following command npm run start to start the webpack dev server. Once started it should open a browser ( localhost:8080 or the next available port).
